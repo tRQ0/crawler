@@ -1,7 +1,5 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^7.7",
-        "spatie/crawler": "^8.0",
         "fabpot/goutte": "^4.0"
     }
 }
